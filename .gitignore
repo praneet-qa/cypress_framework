@@ -1,0 +1,5 @@
+node_modules
+cypress/e2e/examples
+package-lock.json
+package.json
+cypress/screenshots

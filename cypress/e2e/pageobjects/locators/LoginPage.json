@@ -1,0 +1,8 @@
+{
+  "loginPage": {
+    "username_field": "[data-test='username']",
+    "password_field": "[data-test='password']",
+    "login_button": "#login-button",
+    "error_message": "[data-test='error']"
+  }
+}
