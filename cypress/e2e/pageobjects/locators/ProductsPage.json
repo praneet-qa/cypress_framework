@@ -1,0 +1,14 @@
+{
+  "productsPage": {
+    "inventory_list": ".inventory_list",
+    "product_item": ".inventory_item",
+    "product_name": ".inventory_item_name",
+    "product_price": ".inventory_item_price",
+    "product_description": ".inventory_item_desc",
+    "add_to_cart_button": "button.btn_primary.btn_inventory",
+    "sort_dropdown": ".product_sort_container",
+    "shopping_cart_link": ".shopping_cart_link",
+    "shopping_cart_badge": ".shopping_cart_badge",
+    "product_label": ".product_label"
+  }
+}

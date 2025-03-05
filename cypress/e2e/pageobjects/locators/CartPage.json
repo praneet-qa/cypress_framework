@@ -1,0 +1,16 @@
+{
+  "cartPage": {
+    "cart_list": ".cart_list",
+    "cart_item": ".cart_item",
+    "cart_quantity_label": ".cart_quantity_label",
+    "cart_desc_label": ".cart_desc_label",
+    "cart_quantity": ".cart_quantity",
+    "cart_item_label": ".cart_item_label",
+    "item_name": ".inventory_item_name",
+    "item_desc": ".inventory_item_desc",
+    "item_price": ".inventory_item_price",
+    "remove_button": ".btn_secondary.cart_button",
+    "continue_shopping_button": ".cart_footer .btn_secondary",
+    "checkout_button": ".checkout_button"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "checkoutPage": {
+    "title": ".subheader",
+    "first_name": "[data-test='firstName']",
+    "last_name": "[data-test='lastName']",
+    "postal_code": "[data-test='postalCode']",
+    "cancel_button": ".cart_cancel_link",
+    "continue_button": ".cart_button"
+  }
+}

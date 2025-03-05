@@ -23,7 +23,10 @@ When("User clicks the login button", () => {
 });
 
 Then("User should be redirected to the inventory page", () => {
-  cy.url().should("include", "/inventory.html");
+  commonDriver
+    .getElmntFrmNickName("productsPage", "product_label")
+    .invoke("text")
+    .should("eq", "Products");
 });
 
 Then("The error message should say {string}", (expectedErrorMessage) => {
